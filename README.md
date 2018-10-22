@@ -1,5 +1,5 @@
 # 全球第一个基于以太坊智能合约技术的足球竞猜DApp
-![QIULot Logo](https://github.com/qiulot/visual/raw/master/238_238.png "球乐QIULot")
+![QIU3D Logo](https://raw.githubusercontent.com/qiulot/visual/master/logo.png "球乐QIU3D")
 
 
 
